@@ -19,6 +19,7 @@ A définir
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
+- installer git
 
 ```
 A définir
