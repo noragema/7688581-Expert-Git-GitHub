@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Le code de conduite _Contributor Covenant_
+=======
+# Super Code de conduite _Contributor Covenant_
+>>>>>>> 4755b3614981dc50000bbdc27d1ab7b9ae6c040a
 
 ## Notre engagement
 
