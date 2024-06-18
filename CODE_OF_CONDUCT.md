@@ -1,4 +1,4 @@
-# Code de conduite _Contributor Covenant_
+# Super Code de conduite _Contributor Covenant_
 
 ## Notre engagement
 
